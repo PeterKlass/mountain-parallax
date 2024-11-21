@@ -44,5 +44,5 @@ Während der Arbeit an diesem Projekt habe ich Folgendes gelernt:
 Die Live-Version dieses Projekts ist hier verfügbar:
 https://peterklass.github.io/mountain-parallax/
 
-🔗 Weitere Projekte
+## 🔗 Weitere Projekte
 Weitere meiner Projekte findest du hier: https://github.com/PeterKlass
